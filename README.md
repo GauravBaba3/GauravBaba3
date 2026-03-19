@@ -34,7 +34,7 @@ Google Cloud Platform (BigQuery), Git, GitHub, VS Code, Jupyter Notebook
 
 ## 💼 Experience
 
-**Data Analyst Trainee — Qspiders (Aug 2024 – Present)**  
+**Data Analyst Trainee — Qspiders (Aug 2025 – Present)**  
 - Performed EDA on 10,000+ records across multiple domains  
 - Built automated KPI dashboards in Power BI  
 - Optimized SQL queries reducing execution time by 20%  
