@@ -19,16 +19,16 @@ I work on data-driven applications and full-stack solutions — from data analys
 ## 🛠️ Tech Stack
 
 **Languages & Tools**  
-Python, SQL, JavaScript, HTML, CSS  
+Python, Django, SQL, JavaScript, HTML, CSS 
 
 **Data & Analytics**  
-Pandas, NumPy, Scikit-learn, Power BI, Excel, Matplotlib, Seaborn  
+Pandas, NumPy, Scikit-learn, Power BI, Excel, Matplotlib, Seaborn, Web scraping
 
 **Backend & Database**  
 MySQL, REST APIs, ETL Pipelines, Query Optimization  
 
 **Cloud & Tools**  
-Google Cloud Platform (BigQuery), Git, GitHub, VS Code, Jupyter Notebook  
+PySpark, Git, GitHub, VS Code, Jupyter Notebook  
 
 ---
 
