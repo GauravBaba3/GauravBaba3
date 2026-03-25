@@ -1,81 +1,27 @@
-# Hi, I'm Gaurav Kumar 👋
+# 💫 About Me:
+# Hi, I'm Gaurav Kumar 👋<br><br>Data Analyst | Python Backend Developer | Frontend Developer<br><br>I work on data-driven applications and full-stack solutions — from data analysis and machine learning to backend systems and interactive dashboards.<br><br>---<br><br>## 🚀 About Me<br><br>- Data Analyst with hands-on experience in Python, SQL, Power BI, and Google BigQuery  <br>- Strong in ETL pipelines, data cleaning, and exploratory data analysis  <br>- Backend-focused Python developer with experience in API logic and database optimization  <br>- Built dashboards and systems improving reporting efficiency by 40% and reducing query time by 20%  <br>- Interested in solving real-world problems using data and scalable systems  <br><br>---<br><br>## 🛠️ Tech Stack<br><br>**Languages & Tools**  <br>Python, Django, SQL, JavaScript, HTML, CSS <br><br>**Data & Analytics**  <br>Pandas, NumPy, Scikit-learn, Power BI, Excel, Matplotlib, Seaborn, Web scraping<br><br>**Backend & Database**  <br>MySQL, REST APIs, ETL Pipelines, Query Optimization  <br><br>**Cloud & Tools**  <br>PySpark, Git, GitHub, VS Code, Jupyter Notebook  <br><br>---<br><br>## 💼 Experience<br><br>**Data Analyst Trainee — Qspiders (Aug 2025 – Present)**  <br>- Performed EDA on 10,000+ records across multiple domains  <br>- Built automated KPI dashboards in Power BI  <br>- Optimized SQL queries reducing execution time by 20%  <br>- Improved reporting efficiency by 40%  <br><br>**Web Development Intern — NSIC (Feb 2025 – Mar 2025)**  <br>- Optimized backend queries improving server response by 15%  <br>- Improved page load performance by 30%  <br>- Worked on frontend-backend integration and data handling  <br><br>---<br><br>## 📊 Projects<br><br>**Employee Attrition Analysis**  <br>- Analyzed 1,400+ employee records  <br>- Built Power BI dashboards for HR insights  <br>- Identified key attrition drivers  <br><br>**Road Crash Severity Prediction**  <br>- Built ML model with 85%+ accuracy  <br>- Used Random Forest and feature engineering  <br>- Identified key risk factors like speed and road conditions  <br><br>---<br><br>## 📜 Certifications<br><br>- Tata Data Visualization (Forage)  <br>- Deloitte Data Analytics (Forage)  <br>- Google Cloud – BigQuery & ML APIs  <br>- Introduction to Generative AI (Google)  <br><br>---<br><br>## 📫 Connect With Me<br><br>- LinkedIn: https://linkedin.com/in/gauravkumar311  <br>- GitHub: https://github.com/GauravBaba3  <br>- Email: gauravbaba311@gmail.com  <br><br>---<br><br>⭐ Always learning and building in data, backend, and full-stack development.<br>
 
-Data Analyst | Python Backend Developer | Frontend Developer
 
-I work on data-driven applications and full-stack solutions — from data analysis and machine learning to backend systems and interactive dashboards.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gauravkumar311/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gauravbaba311@gmail.com) 
 
----
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=GauravBaba3&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=GauravBaba3&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GauravBaba3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🚀 About Me
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=GauravBaba3&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- Data Analyst with hands-on experience in Python, SQL, Power BI, and Google BigQuery  
-- Strong in ETL pipelines, data cleaning, and exploratory data analysis  
-- Backend-focused Python developer with experience in API logic and database optimization  
-- Built dashboards and systems improving reporting efficiency by 40% and reducing query time by 20%  
-- Interested in solving real-world problems using data and scalable systems  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-## 🛠️ Tech Stack
-
-**Languages & Tools**  
-Python, Django, SQL, JavaScript, HTML, CSS 
-
-**Data & Analytics**  
-Pandas, NumPy, Scikit-learn, Power BI, Excel, Matplotlib, Seaborn, Web scraping
-
-**Backend & Database**  
-MySQL, REST APIs, ETL Pipelines, Query Optimization  
-
-**Cloud & Tools**  
-PySpark, Git, GitHub, VS Code, Jupyter Notebook  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=GauravBaba3&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=GauravBaba3&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💼 Experience
-
-**Data Analyst Trainee — Qspiders (Aug 2025 – Present)**  
-- Performed EDA on 10,000+ records across multiple domains  
-- Built automated KPI dashboards in Power BI  
-- Optimized SQL queries reducing execution time by 20%  
-- Improved reporting efficiency by 40%  
-
-**Web Development Intern — NSIC (Feb 2025 – Mar 2025)**  
-- Optimized backend queries improving server response by 15%  
-- Improved page load performance by 30%  
-- Worked on frontend-backend integration and data handling  
-
----
-
-## 📊 Projects
-
-**Employee Attrition Analysis**  
-- Analyzed 1,400+ employee records  
-- Built Power BI dashboards for HR insights  
-- Identified key attrition drivers  
-
-**Road Crash Severity Prediction**  
-- Built ML model with 85%+ accuracy  
-- Used Random Forest and feature engineering  
-- Identified key risk factors like speed and road conditions  
-
----
-
-## 📜 Certifications
-
-- Tata Data Visualization (Forage)  
-- Deloitte Data Analytics (Forage)  
-- Google Cloud – BigQuery & ML APIs  
-- Introduction to Generative AI (Google)  
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: https://linkedin.com/in/gauravkumar311  
-- GitHub: https://github.com/GauravBaba3  
-- Email: gauravbaba311@gmail.com  
-
----
-
-⭐ Always learning and building in data, backend, and full-stack development.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
