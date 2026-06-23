@@ -92,10 +92,11 @@ I am a results-driven **Full-Stack Developer & Data Analyst** specializing in en
 * **Core Problem Solved:** Eliminated workflow lag in patient life cycles by automating multi-tier processing from admissions to calculated analytics-driven final billing procedures.
 * **Key Capabilities:** Multi-user authentication role mappings (Patients, Medical staff, Administrators), dynamic appointment matrices, automated total discharge billing calculation, and clean dashboard visualization metrics.
 
-### 📈 Dynamic Analytics Data-Filtering Engine
-* **Architecture:** Streamlit-powered analytical portal integrating decoupled algorithmic backend computation structures.
-* **Core Problem Solved:** Enabled non-technical business handlers to rapidly slice multi-variable technical datasets without writing code query syntaxes.
-* **Key Capabilities:** Dynamic on-the-fly multi-parameter data mutations, integrated visualization plotting rendering with optimal aspect handling, and instantaneous vector array data translations.
+### 📊 NLP2Query - Natural Language Data Filtering & Visualization System
+
+Architected and developed an AI-driven data exploration platform that transforms natural language queries into actionable data insights and visualizations. Integrated Hugging Face LLMs for intent classification, query generation, and automated error correction, enabling seamless interaction with CSV and Excel datasets through English and Hinglish inputs. Designed a secure validation and execution pipeline using AST-based safeguards, delivering accurate, real-time analytics while maintaining execution safety and system reliability.
+
+🔗 **Live Demo:** https://natural-language-data-filtering-visualization-system-mszijrgml.streamlit.app/
 
 ### 🤖 Applied Machine Learning & NLP Analytics Pipelines
 * **Architecture:** Vector-based data models engineered using Scikit-Learn pipelines and advanced Pandas transformation operations.
