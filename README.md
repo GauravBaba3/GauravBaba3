@@ -1,4 +1,4 @@
-< align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Gaurav%20Kumar&fontSize=70&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header Banner" />
 </p>
 
